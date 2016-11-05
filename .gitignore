@@ -113,3 +113,8 @@ conformance/google/
 conformance/javac_middleman
 conformance/lite/
 conformance/protoc_middleman
+build_win/
+build_linux/
+build1/
+lib/
+bin/
